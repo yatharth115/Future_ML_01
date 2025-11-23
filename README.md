@@ -57,7 +57,7 @@ This project delivers a complete predictive analytics solution for a retail busi
 
 ### 🖼️ Dashboard Screenshot
 
-
+![Dashboard Screenshot](F:\Yatharth Joshi\ML FI TASK 1\dashboard_files\AI_Sales_Forecast_Dashboard.png)
 
 ---
 
