@@ -55,9 +55,7 @@ This project delivers a complete predictive analytics solution for a retail busi
 * Filters allow users to slice data by **Region** and **Category** to understand localized trends.
 * Monthly sales comparisons highlight high-demand and low-demand periods for operational planning.
 
-### 🖼️ Dashboard Screenshot
 
-![Dashboard Screenshot](F:\Yatharth Joshi\ML FI TASK 1\dashboard_files\AI_Sales_Forecast_Dashboard.png)
 
 ---
 
